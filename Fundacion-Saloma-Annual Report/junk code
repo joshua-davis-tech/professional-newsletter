@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopilicious</title>
+    <style type="text/css">
+@media only screen and (max-width: 600px) {
+
+
+}
+    </style>
+</head>
+<body style="background-color: #333545;">
+    <!--Start of Encapsulating Table-->
+    <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="border-collapse:collapse;background-color: white;">
+        <tr>
+            <td>
+                <!--Start of Inner Whole Table-->
+                <table cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="background-color: white;">
+                    <tr>
+                        <td>
+                            <!--Start of Header Section-->
+                            <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="background-color: white;"> 
+                                <tr>
+                                    <td style="vertical-align: top-right;">
+                                        <img src="https://i.postimg.cc/X7fmQX9P/logo.png" width="200"> 
+                                    </td>
+                                    <td align="right">
+                                        <img src="https://i.postimg.cc/wj9PPHVj/free.jpg" width="100">
+                                    </td>
+                                </tr>
+                                </table>
+                            </td>
+                    </tr>
+                    <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" height="370">
+                        <tr>
+                            <td>
+
+                                <!--Banner Start of Left Column-->
+                    <table cellspacing="0" cellpadding="0" border="0" align="left" width="300">
+                        <tr>
+                            <td>
+                                <img src="https://i.postimg.cc/BbW7CGbs/t3-image1.jpg" width="300">
+                            </td>
+                        </tr>
+                        
+                     </table>
+
+                           <!--Banner Start of Right Column-->
+                     <table cellspacing="0" cellpadding="0" border="0" align="right" width="300" height="370" style="background: blue;">
+                        <tr>
+                            <td width="300" align="left" style="Margin: 0; padding: 0;">
+                               <p width="300" height="0"style="vertical-align: bottom; color: white; Margin-left: 40px;">New Color</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="0"align="left"style="Margin: 0; padding: 0;">
+                                <p style="vertical-align: top; font-size: 50px; color: white; Margin-left: 40px; padding: 0;">New <br> Season </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left"style="Margin: 0; padding: 0;">
+                                <p style="color: white; Margin-left: 40px;  ">
+                                    We are committed to your satisfaction with every order.
+                                </p>
+                            </td>
+                        </tr>
+                    
+                
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--End of Inner whole table-->
+            </td>
+        </tr>
+
+    </table> 
+    <!--End of Encapulating Table-->
+
+
+</body>
+</html>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateColumns" style="padding: 20px;">
+    <tr>
+        <td align="center" valign="top" width="33%" class="templateColumnContainer">
+            <table border="0" cellpadding="10" cellspacing="0" width="100%"> 
+                <tr>
+                    <td class="leftColumnContent">
+                        <img src="https://i.postimg.cc/m2fKY71M/t4-image4.jpg" width="200">
+
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent">
+                        <p style="width: 33%;">Straw Boater Hat</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent" width="200">
+                        <p style="width: 33%;">Straw Boater Hat features in our Accessories Collection</p>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" class="leftColumnContent" width="200">
+                        <p style="width: 33%;">Price: $50.00 <span>$20.00</span>
+                        </p>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" >
+                       <table class="darkmode-transparent" cellpadding="0" cellspacing="0" style=" padding: 10px 0px 30px 0px;" role="presentation">
+                          <tr>
+                             <td style="border-radius: 0px;" bgcolor="#eff8fe"> 
+                                <a href="#" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: black;
+                                background-color: white; border: 1px solid black;border-radius: 0px; padding: 12px 50px; display: inline-block;">View Now</a>
+                             </td>
+     
+                          </tr>
+                       </table>
+                    </td>
+
+                    <!--Start of Center Column-->
+                    <td align="center" valign="top" width="33%" class="templateColumnContainer">
+                        <table border="0" cellpadding="10" cellspacing="0" width="100%"> 
+                            <tr>
+                                <td class="leftColumnContent">
+                                    <img src="https://i.postimg.cc/m2fKY71M/t4-image4.jpg" width="200">
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" class="leftColumnContent">
+                                    <p style="width: 33%;">Straw Boater Hat</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" class="leftColumnContent" width="200">
+                                    <p style="width: 33%;">Straw Boater Hat features in our Accessories Collection</p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" class="leftColumnContent" width="200">
+                                    <p style="width: 33%;">Price: $50.00 <span>$20.00</span>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" >
+                                   <table class="darkmode-transparent" cellpadding="0" cellspacing="0" style=" padding: 10px 0px 30px 0px;" role="presentation">
+                                      <tr>
+                                         <td style="border-radius: 0px;" bgcolor="#eff8fe"> 
+                                            <a href="#" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: black;
+                                            background-color: white; border: 1px solid black;border-radius: 0px; padding: 12px 50px; display: inline-block;">View Now</a>
+                                         </td>
+                 
+                                      </tr>
+                                   </table>
+                                </td>
+                </tr>
+                
+             </tr>
+
+            </table>
+
+        </td>
+    </tr>
+
+</table>
+
+
+<!--Start of Coupon Section-->
+
+                                 <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" align="center">
+                            <tr>
+                                <td width="450">
+                                    <![endif]-->
+
+                                   
+                                   
+
+                   <!--Try removing the overall parent table! The below this comment it seemed to work last night!!! or JUST MATCH THE BACKGROUND COLOR WITH THE REST OF THE EMAIL LIKE YOU DID. GAVE BACKGROUND COLOR OF WHITE STUDY THIS CODE. ADDED BORDERBOX AND HEIGHTS!!-->  <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" class="width100 banner"  height="310" >
+                    <tr>
+                        <td height="315" align="center" class="width100">
+                            <!--Start of Left Column-->
+                            <table cellspacing="0" cellpadding="0" border="0" align="left" width="400" height="315" style="box-sizing: border-box; background-color: pink;" class="width100">
+                                <tr>
+                                    <td align="center">
+                                        <table cellspacing="0" cellpaddin="0" border="0" align="center" style="display: inline-block; padding: 120px 175px; border: 1px dashed black;"> 
+
+                                        </table>
+                
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        <td width="300">
+                            
+                            <![endif]-->
+
+
+                            <!--End of Left Column-->
+
+                            <!--Coupon Start of Right Column-->
+
+                            <!--[if (gte mso 9)|(IE)]>
+  <style type="text/css">
+     .banner {display: block; height: 500px;}
+     .image {display: block; height: 500px;}
+  </style>
+<![endif]-->
+
+                            <table cellspacing="0" cellpadding="0" border="0" align="right" width="200" height="315" style="box-sizing: border-box; "  class="width100 banner">
+                                <tr>
+                                    <td >
+                                        <img src="https://i.postimg.cc/0QKHmN8c/t4-image7.jpg" width="200" height="315" style="box-sizing: border-box;" class="width100">
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!--[if (gte mso 9) | (IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                <![endif]-->
+                            <!--End of Right Column-->
+
+                           
+
+             
+
+
+
+
+
+                        </td>
+                    </tr>
+
+                </table>
+                <!--End of Coupon Section-->

@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <title>Shopilicious</title>
+    <style type="text/css">
+
+        a {
+            padding:  0;
+        }
+        body {
+            width: 100%!important; -webkit-text-size: 100%; -ms-text-size-adjust: 100%; Margin:0; padding: 0;
+        }
+        .ReadMsgBody {
+        width: 100%;
+        }
+        .ExternalClass { 
+        width: 100%;
+        }
+        .backgroundTable { 
+        Margin: 0 auto; padding: 0; width: 100% !important; 
+        }
+        table td {
+         border-collapse: collapse;
+        }
+        .ExternalClass * {
+        line-height: 115%;
+        }
+        table {
+        border-spacing: 0;
+        }
+        td {
+    padding: 0;
+        }
+        img {
+        border: 0;
+        }   
+  
+    
+        @media only screen and (max-width: 600px) {
+
+           .satisfaction {
+               font-size: 15px;
+               margin: auto;
+               padding: 0px 5px;
+           }
+
+           
+
+            .button {
+              margin: auto;
+            }
+
+       
+            .width100 {
+            width: 100%;
+            text-align: center;
+            }
+
+            .image80 {
+                width: 300px;
+            }
+               
+              
+               
+            }
+
+          
+           
+    
+    
+        </style>
+
+        <!--[if (gte mso 9)|(IE)]>
+		<style type="text/css">
+			table {border-collapse: collapse !important;}
+		</style>
+	<![endif]-->
+</head>
+
+<body style="Margin: 0; padding: 0; background-color: black; font-family: Helvetica, Arial, 'Raleway', sans-serif;">
+    <!--Start of Encapsulating Table-->
+
+    <!--[if (gte mso 9)|(IE)]>
+      <style type="text/css">
+         body {background-color:#dde0e1!important;}
+         body, table, td, p, a {font-family: 'Raleway', sans-serif, Arial, Helvetica!important;}
+      </style>
+   <![endif]-->
+    
+    <table  cellspacing="0" cellpadding="0" border="0" align="center" width="600" style=" font-family: 'Raleway', sans-serif; background-color: white" role="presentation"class="width100">
+        <tr>
+            <td>
+                <!--Start of Inner Whole Table-->
+                <table  cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="background-color: white;" role="presentation" class="width100" >
+                    <tr>
+                        <td>
+                            <!--Start of Header Section-->
+                            <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="background-color: white;" class="width100" > 
+                                <tr>
+                                    <td align="left">
+                                        <img align="left" src="https://i.postimg.cc/X7fmQX9P/logo.png" style="display: block;" width="200"> 
+                                    </td>
+                                    <td align="right">
+                                        <img src="https://i.postimg.cc/wj9PPHVj/free.jpg" style="display: block; " width="100">
+                                    </td>
+                                </tr>
+                                </table>
+                                <!--End of Header Section-->
+                        </td>
+                    </tr>
+
+                       <!--Start of Banner section-->
+
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" height="400" align="center">
+                            <tr>
+                                <td width="300" height="400">
+                                    <style>
+                                        p {
+                                            padding: 0px 30px;
+                                        }
+                                    </style>
+                                    
+                                    <![endif]-->
+                    <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" class="width100 banner" height="400" style="width: 600px; height: 400px;" >
+                        <tr>
+                            <td class="width100">
+                                <!--Start of Left Column-->
+                                <table cellspacing="0" cellpadding="0" border="0" align="left" width="300" height="400"  style="width: 300px; height: 400px;" class="width100">
+                                    <tr>
+                                        <td style="display: block;">
+                                            <img src="https://i.postimg.cc/BbW7CGbs/t3-image1.jpg" width="300" height="400" class="width100 image1" style="display: block;">
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                            <td width="300" height="400">
+                               
+
+                               
+                                
+                                <![endif]-->
+
+
+                                <!--End of Left Column-->
+
+                                <!--Banner Start of Right Column-->
+
+       
+                                <table cellspacing="0" cellpadding="0" border="0" align="right" width="300" height="400" style="display: block; background: #4e54cb; width :300px; height: 400px;" class="width100 banner">
+                                    <tr>
+                                        <td width="300" height="400" align="left" style="width: 300px; height: 400px;display: block; padding: 0px 20px; " >
+                                           <p width="300" style="line-height: 0px; color: white; padding: 0px 20px;" >New Color</p>
+                                           
+                                           
+                                           <p style="color:#ffffff; font-family:Arial, sans-serif; font-size:52px; line-height:58px; text-transform:uppercase; font-weight:bold; text-align:left; padding: 0px 20px;">New Season </p>
+                                           
+                                           <p style="color: white; padding: 0px 20px;" >
+                                            We are committed to your satisfaction with every order.
+                                           
+                                           </p>
+
+                                           
+
+                                          
+                                       
+                                        <!--Start of Button-->
+                                    
+                                           <table  class="darkmode-transparent" cellpadding="0" cellspacing="0" style=" padding: 0px 20px;" role="presentation"  >
+                                              <tr>
+                                                 <td align="center" style="border-radius: 0px;" bgcolor="#eff8fe" > 
+                                                    <a href="#" target=_"blank" style="font-size: 14px; font-weight: bold; text-decoration: none; text-transform: uppercase; color:#f54084;
+                                                    background-color: #eff8fe; border: 1px solid #eff8fe; border-radius: 0px; padding: 10px; display: block;">Shop Now</a>
+                                                 </td>
+                         
+                                              </tr>
+                                           </table>
+                                        
+
+                                           <!--End of Button-->
+                                        </td>
+                                    </tr>
+                                    
+                                    
+
+                                    
+
+
+                                </table>
+
+                                <!--[if (gte mso 9) | (IE)]>
+                                    
+                                </td>
+                            </tr>
+                        </table>
+                    <![endif]-->
+                                <!--End of Right Column-->
+
+                                
+
+                                <!--Start of Popular Products Section-->
+                            
+                            <!--[if (gte mso 9)|(IE)]>
+  <style>
+
+    #popular {height: 90px;}
+  </style>
+<![endif]-->
+                               
+                                <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" role="presentation" id="popular" class="width100">
+                                    <tr>
+                                        <td  style=" font-family: 'Raleway', sans-serif;padding: 30px 100px;" align="center" class="width100 popular">
+                                            <p style="font-family: 'Raleway', sans-serif;"class="width100">Popular Products</p>
+                                        </td>
+                                    </tr>
+
+                                </table>
+
+                                <!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+
+                              
+                                
+                           <!--End of Popular Products Section-->
+
+                                <!--Start of 3 Column Row-->
+
+                                <!--Start of Parent Table-->
+
+                                <table cellpadding="0" cellspacing="0" border="0" align="center" width="600" style="text-align: center; "  class="width100">
+                                    <tr>
+                                        <td align="center" style="padding: 20px 0px;"> 
+                                            <table cellpadding="0" cellspacing="0" border="0" align="center" width="600" style="text-align: center"  class="width100">
+                                                <tr>
+                                                    <td align="center">
+                                                        <!--[if (gte mso 9)|(IE)]>
+                              <table width="100%" style=" border-spacing: 0;" role="presentation">
+                              <tr>
+                              <td width="200" valign="top" style="padding:0px; font-family: 'Raleway', sans-serif;">
+                           <![endif]-->
+
+                                                        <!--Start of First Column-->
+                                                        <table cellpadding="0" cellspacing="0" border="0" align="left" width="200" style="text-align: left;"  class="width100">
+                                                            <tr>
+                                                                <td style=" font-family: 'Raleway', sans-serif;padding: 0px 5px 20px 5px;" class="width100">
+                                                                    <img src="https://i.postimg.cc/m2fKY71M/t4-image4.jpg" width="180"  class="image80">
+
+                                                                   <h3 style="font-family: 'Raleway', sans-serif;">Straw Boater Hat</h3>
+
+                                                                   <p style="font-family: 'Raleway', sans-serif;font-size: 12px; "> Straw Boater Hat features in our Accessories collection</p>
+
+                                                                   <p style="font-family: 'Raleway', sans-serif;">Price 
+
+                                                                       <span style="font-family: 'Raleway', sans-serif;"><s>$50.00</s></span>
+
+                                                                       <span style="font-family: 'Raleway', sans-serif;"><s>$20.00</s></span>
+                                                                
+                                                                
+                                                                </p>
+                                                                
+                                                                    <tr>
+                                                                        <td align="left" class="button" >
+                                                                           <table class="button" cellpadding="0" cellspacing="0" style=" padding: 10px 0px 30px 0px;" role="presentation">
+                                                                              <tr>
+                                                                                 <td style="border-radius: 0px; padding: 0px 5px;" bgcolor="#eff8fe"> 
+                                                                                    <a href="#" target=_"blank" style=" text-align: left; font-size: 17px; font-weight: bold; text-decoration: none; color: black;
+                                                                                    background-color: white; border: 1px solid black;border-radius: 0px; padding: 12px 30px; display: inline-block;">View Now</a>
+                                                                                 </td>
+                                                         
+                                                                              </tr>
+                                                                           </table>
+                                                                        </td>
+                                                                     </tr>
+                                                                     
+                                                                </td>
+                                                            </tr>
+                                                            
+                                                        </table>
+
+                                       <!--[if (gte mso 9)|(IE)]>
+                           </td><td width="200" valign="top" style="padding: 0;">
+                           <![endif]-->
+
+                                                       
+
+                                                        <!--End of First Column-->
+
+                                                        <!--Start of Second Column-->
+                                                        <table cellpadding="0" cellspacing="0" border="0" align="left" width="200" style="text-align: left;"  class="width100">
+                                                            <tr>
+                                                                <td style="padding: 0px 5px 20px 5px;" class="width100">
+                                                                    <img src="https://i.postimg.cc/m2fKY71M/t4-image4.jpg" width="180"  class="image80">
+
+                                                                   <h3>Straw Boater Hat</h3>
+
+                                                                   <p style="font-size: 12px;"> Straw Boater Hat features in our Accessories collection</p>
+
+                                                                   <p>Price 
+
+                                                                       <span><s>$50.00</s></span>
+
+                                                                       <span><s>$20.00</s></span>
+                                                                
+                                                                
+                                                                </p>
+
+                                                                <tr>
+                                                                    <td style="padding: 0px 10px 0px 10px;" align="left" class="button" >
+                                                                       <table cellpadding="0" cellspacing="0" style=" padding: 10px 0px 30px 0px;" role="presentation" class="button">
+                                                                          <tr>
+                                                                             <td style="border-radius: 0px;" bgcolor="#eff8fe"> 
+                                                                                <a href="#" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: black;
+                                                                                background-color: white; border: 1px solid black;border-radius: 0px; padding: 12px 30px; display: inline-block;">View Now</a>
+                                                                             </td>
+                                                     
+                                                                          </tr>
+                                                                       </table>
+                                                                    </td>
+                                                    </tr>
+                                                                </td>
+                                                            </tr>
+
+                                                        </table>
+
+                                                        <!--[if (gte mso 9)|(IE)]>
+                           </td><td width="200" valign="top" style="padding: 0;">
+                           <![endif]-->
+                                                        <!--End of Second Column-->
+
+                                                        <!--Start of Third Column-->
+                                                        <table cellpadding="0" cellspacing="0" border="0" align="left" width="200" style="text-align: left; "  class="width100">
+                                                            <tr>
+                                                                <td style="padding: 0px 5px 20px 5px;" class="width100">
+                                                                    <img src="https://i.postimg.cc/m2fKY71M/t4-image4.jpg" width="180"  class="image80">
+
+                                                                   <h3>Straw Boater Hat</h3>
+
+                                                                   <p style="font-size: 12px;"> Straw Boater Hat features in our Accessories collection</p>
+
+                                                                   <p>Price 
+
+                                                                       <span><s>$50.00</s></span>
+
+                                                                       <span><s>$20.00</s></span>
+                                                                
+                                                                
+                                                                </p>
+
+                                                                <tr>
+                                                                    <td align="left" class="button">
+                                                                       <table class="darkmode-transparent button" cellpadding="0" cellspacing="0" style=" padding: 10px 0px 30px 0px;" role="presentation">
+                                                                          <tr>
+                                                                             <td style="border-radius: 0px;" bgcolor="#eff8fe"> 
+                                                                                <a href="#" target=_"blank" style="font-size: 17px; font-weight: bold; text-decoration: none; color: black;
+                                                                                background-color: white; border: 1px solid black;border-radius: 0px; padding: 12px 30px; display: inline-block;">View Now</a>
+                                                                             </td>
+                                                     
+                                                                          </tr>
+                                                                       </table>
+                                                                    </td>
+                                                    </tr>
+                                                                </td>
+                                                            </tr>
+
+                                                        </table>
+                                                         <!--[if (gte mso 9)|(IE)]>
+                              </td>
+                              </tr>
+                              </table>
+                           <![endif]-->
+
+                               
+                                                        <!--End of Third Column-->
+                                                    </td>
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+                                    </tr>
+
+                                </table>
+
+                                <!--Start of Coupon Section-->
+
+                                 <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" align="center">
+                            <tr>
+                                <td width="450">
+                                    <![endif]-->
+
+                                   
+                                   
+
+                   <!--Try removing the overall parent table! The below this comment it seemed to work last night!!! or JUST MATCH THE BACKGROUND COLOR WITH THE REST OF THE EMAIL LIKE YOU DID. GAVE BACKGROUND COLOR OF WHITE STUDY THIS CODE. ADDED BORDERBOX AND HEIGHTS!!-->  <table cellspacing="0" cellpadding="0" border="0" align="center" width="600" class="width100 banner"  height="315" >
+                        <tr>
+                            <td height="315"  align="center" style="height: 315px;" class="width100">
+                                <!--Start of Left Column-->
+                                <table cellspacing="0" cellpadding="0" border="0" align="left" width="400" height="315" style="box-sizing: border-box; background-color: pink; height: 315px;" class="width100">
+                                    <tr>
+                                        <td height="315" style="height: 315px" align="center">
+                                            <table cellspacing="0" cellpaddin="0" border="0" align="center" style="display: inline-block; padding: 120px 175px; border: 1px dashed black;"> 
+    
+                                            </table>
+                    
+                                            
+                                            
+                    
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                            <td width="300">
+                                
+                                <![endif]-->
+
+
+                                <!--End of Left Column-->
+
+                                <!--Coupon Start of Right Column-->
+
+                                <!--[if (gte mso 9)|(IE)]>
+      <style type="text/css">
+         .banner {display: block; height: 500px;}
+         .image {display: block; height: 500px;}
+      </style>
+   <![endif]-->
+
+                                <table cellspacing="0" cellpadding="0" border="0" align="right" width="200" height="315" style="box-sizing: border-box; "  class="width100 banner">
+                                    <tr>
+                                        <td height="315" style="height: 315px;">
+                                            <img src="https://i.postimg.cc/0QKHmN8c/t4-image7.jpg" width="200" height="315" style="box-sizing: border-box; height: 315px;" class="width100">
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <!--[if (gte mso 9) | (IE)]>
+                                </td>
+                            </tr>
+                        </table>
+                    <![endif]-->
+                                <!--End of Right Column-->
+
+                               
+
+                 
+
+
+
+
+
+                            </td>
+                        </tr>
+
+                    </table>
+                    <!--End of Coupon Section-->
+
+                    <!--Start of Trending Products Section-->
+                            
+    
+                               
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="600" role="presentation" id="popular" class="width100">
+    <tr>
+        <td  style="padding: 30px 100px;" align="center" class="width100">
+            <p  style="text-transform: uppercase;" class="width100">Trending Products</p>
+        </td>
+    </tr>
+
+</table>
+
+
+<!--End of Trending Products Section-->
+
+
+<!--Start of Trending Products Columns-->
+
+
+        <!--[if (gte mso 9)|(IE)]>
+                        <table width="600" align="center">
+                            <tr>
+                                <td width="300">
+                                    <![endif]-->
+
+                    <table cellspacing="0" cellpadding="0"  align="center" border="0" role="presentation" width="600">
+                        <tr>
+                            <td>
+                                <!--Start of Left Column-->
+                                <table table cellspacing="0" cellpadding="0"  align="left" border="0" role="presentation" width="300">
+                                    <tr>
+                                        <td align="left" style="padding: 0px 20px;">
+                                            <img src="https://i.postimg.cc/66GD4Mqt/t2-image2.jpg" width="260" height="400">
+                                            <h3>Athena Coat</h3>
+                                            <p style="font-size: 12px;">
+                                                Beige solid longline overcoat, has a spread collar, 2 pockets, zip closure, long sleeves, straight hem.
+                                            </p>
+
+                                            <p>Price: <span><s>$250.00</s></span><span style="color: #4e54cb;"> $199.00</span></p>
+
+                                            <tr>
+                                                <td align="left" class="button" >
+                                                   <table class="button" cellpadding="0" cellspacing="0" style=" padding: 0px 20px;" role="presentation">
+                                                      <tr>
+                                                         <td style="border-radius: 0px; padding: 0px;" bgcolor="#eff8fe"> 
+                                                            <a href="#" target=_"blank" style=" text-align: left; font-size: 14px; font-weight: light; text-decoration: none; color: black;
+                                                            background-color: white; border: 1px solid black;border-radius: 0px; padding: 10px 40px; text-transform: uppercase; display: inline-block;">Buy Now</a>
+                                                         </td>
+                                 
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+
+                                        </td>
+                                    </tr>
+
+                                </table>
+
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                            <td width="300">
+                                
+                                <![endif]-->
+
+                                <table table cellspacing="0" cellpadding="0"  align="right" border="0" role="presentation" width="300">
+                                    <tr>
+                                        <td align="left" style="padding: 0px 20px;">
+                                            <img src="https://i.postimg.cc/66GD4Mqt/t2-image2.jpg" width="260" height="400">
+                                            <h3>Athena Coat</h3>
+                                            <p style="font-size: 12px;">
+                                                Beige solid longline overcoat, has a spread collar, 2 pockets, zip closure, long sleeves, straight hem.
+                                            </p>
+
+                                            <p>Price: <span><s>$250.00</s></span><span style="color: #4e54cb;"> $199.00</span></p>
+
+                                            <tr>
+                                                <td align="left" class="button" style="padding-bottom: 50px;" >
+                                                   <table class="button" cellpadding="0" cellspacing="0" style=" padding: 0px 20px;" role="presentation">
+                                                      <tr>
+                                                         <td style="border-radius: 0px; padding: 0px;" bgcolor="#eff8fe"> 
+                                                            <a href="#" target=_"blank" style=" text-align: left; font-size: 14px; font-weight: light; text-decoration: none; color: black;
+                                                            background-color: white; border: 1px solid black;border-radius: 0px; padding: 10px 40px; text-transform: uppercase; display: inline-block;">Buy Now</a>
+                                                         </td>
+                                 
+                                                      </tr>
+                                        </td>
+                                    </tr>
+
+                                </table>
+                            </td>
+                        </tr>
+
+                    </table>
+
+                     <!--[if (gte mso 9) | (IE)]>
+                                </td>
+                            </tr>
+                        </table>
+                    <![endif]-->
+                                                <!--End of Trending Products Right Column-->
+
+                <table cellspacing="0" cellpadding="0" border="0" width="600" role="presentation"  style="background-color: #4e54cb;">
+                    <tr>
+                        <td align="center" style="padding: 40px 0px 5px 0px;">
+                            <p style="color: white;">Follow Us</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding-top: 5px; padding-bottom: 20px;">
+                           <a href="*"> <img src="https://i.postimg.cc/vHsSgMCt/t-white-ico-facebook.png" width="40" style="display: inline-block; padding: 5px;"></a>
+                           <a href="*"> <img src="https://i.postimg.cc/vHsSgMCt/t-white-ico-facebook.png" width="40" style="display: inline-block; padding: 5px;"></a>
+                           <a href="*"> <img src="https://i.postimg.cc/vHsSgMCt/t-white-ico-facebook.png" width="40"style="display: inline-block; padding: 5px;"></a>
+                           <a href="*"> <img src="https://i.postimg.cc/vHsSgMCt/t-white-ico-facebook.png" width="40" style="display: inline-block; padding: 5px;"></a>
+                           <a href="*"> <img src="https://i.postimg.cc/vHsSgMCt/t-white-ico-facebook.png" width="40" style="display: inline-block; padding: 5px;"></a>
+                           <a href="*"> <img src="https://i.postimg.cc/vHsSgMCt/t-white-ico-facebook.png" width="40" style="display: inline-block; padding: 5px;"></a>
+
+                        </td>
+                    </tr>
+                   
+                    <tr>
+                        <td height="1" width="500" style="margin: auto;  display:block; background-color: #5e63d3;"></td>
+                    </tr>
+              
+                    <tr>
+                        <td align="center" style="padding-top: 20px; padding-bottom: 50px;">
+                            <p style="font-size: 10px; color: white;">Copyright © 0123 Shopilicious</p>
+                            <p style="font-size: 10px; color: white;">728 Dooley Branch, Beckershire, LA 63598-2909
+                            </p>
+
+                        </td>
+                    </tr>
+
+
+                </table>
+
+                <table cellspacing="0" cellpadding="0" border="0" width="600" role="presentation" style="background-color: black;">
+                    <tr>
+                        <td align="center" style="background-color: black; padding: 20px 30px;">
+                            <p style="font-size: 12px; color: #5e63d3;">You are receiving this email because you have subscribed to receive updates from us.
+                                Should you wish to cancel your subscription, <span style="font-size: 12px; color: red;"><a href="#">please click here to unsubscribe.</a></span></p>
+                        </td>
+                    </tr>
+            
+                </table>
+                
+
+                    
+
+                   
+
+                </table>
+                <!--End of Inner Whole Table-->
+            </td>
+        </tr>
+    </table>
+    <!--End of Encapsulating Table-->
+    
+   
+
+</body>
+</html>
